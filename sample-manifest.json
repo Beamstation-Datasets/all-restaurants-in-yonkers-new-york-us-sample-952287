@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6de7bcce-04ad-4cad-8cb2-42c195caebaf",
+  "id_short": 952287,
+  "published_at": "2026-04-16T19:37:35Z",
+  "repo_name": "all-restaurants-in-yonkers-new-york-us-sample-952287",
+  "sample_asset_name": "beamstation_952287_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/952287/beamstation_952287_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_records": 88,
+  "sample_sha256": "3e3a246939ddecbd9ae6093e42e9b2b6563b22ef0dc8f82dd28df7ee3d4e6d81",
+  "sample_size_bytes": 297946,
+  "total_records": 889
+}
