@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Yonkers, New York, a growing city of 211k+. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Yonkers, New York, US",
+  "export_job_id": "6de7bcce-04ad-4cad-8cb2-42c195caebaf",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 952287,
+  "location_name": "Yonkers",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-yonkers-new-york-us-sample-952287",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/952287/beamstation_952287_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 88,
+  "sample_sha256": "3e3a246939ddecbd9ae6093e42e9b2b6563b22ef0dc8f82dd28df7ee3d4e6d81",
+  "sample_size_bytes": 297946,
+  "total_records": 889,
+  "updated_at": "2026-04-09T09:44:05.730130+00:00"
+}
