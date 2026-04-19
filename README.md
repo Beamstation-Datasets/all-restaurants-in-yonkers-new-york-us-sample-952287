@@ -9,9 +9,9 @@
 | Dataset ID | `952287` |
 | Location | Yonkers |
 | Category | Restaurants |
-| Full dataset size | 889 records |
-| Free sample size | 88 records (9.9%) |
-| Last export | 2026-04-09T09:44:05.730130+00:00 |
+| Full dataset size | 884 records |
+| Free sample size | 88 records (9.95%) |
+| Last export | 2026-04-16T09:40:22.614905+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-yonkers-new-york-us-sample-952287/releases/download/sample-latest/beamstation_952287_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
